@@ -4,5 +4,5 @@
 
 function f1()
 {
-	document.getElementById("demo").innerHTML = 'Welcome to eclipse - xxx'; 
+	document.getElementById("demo").innerHTML = 'Welcome to eclipse...'; 
 }		
